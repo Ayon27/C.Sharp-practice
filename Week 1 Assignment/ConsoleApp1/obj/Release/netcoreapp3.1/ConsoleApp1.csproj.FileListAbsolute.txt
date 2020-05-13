@@ -1,0 +1,13 @@
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Ayn\RiderProjects\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Ayn\RiderProjects\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
